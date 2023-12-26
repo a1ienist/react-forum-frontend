@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    float: left;
+  }
+  
+  .registration {
+    float: right;
+  }
